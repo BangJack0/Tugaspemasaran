@@ -1,0 +1,159 @@
+.element {
+  width: 1920px;
+  height: 1379px;
+  background-color: #000000;
+  overflow: hidden;
+  transition: all 0.2s ease;
+}
+
+.element .group {
+  width: 1930px;
+  height: 1379px;
+}
+
+.element .overlap-group {
+  position: relative;
+  width: 1920px;
+  height: 1379px;
+  background-color: #fafafa;
+}
+
+.element .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 1082px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/life-at-val-leadership-article-header-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.element .text-wrapper {
+  position: absolute;
+  width: 132px;
+  top: 56px;
+  left: 255px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.06px;
+  line-height: 16px;
+}
+
+.element .div {
+  position: absolute;
+  width: 132px;
+  top: 146px;
+  left: 1777px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.06px;
+  line-height: 16px;
+}
+
+.element .TOP-UP {
+  position: absolute;
+  width: 132px;
+  top: 56px;
+  left: 622px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.06px;
+  line-height: 16px;
+}
+
+.element .span {
+  font-weight: 700;
+  letter-spacing: 0.01px;
+}
+
+.element .text-wrapper-2 {
+  font-weight: 500;
+  letter-spacing: 0.01px;
+}
+
+.element .text-wrapper-3 {
+  position: absolute;
+  width: 132px;
+  top: 56px;
+  left: 1158px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.06px;
+  line-height: 16px;
+}
+
+.element .text-wrapper-4 {
+  position: absolute;
+  width: 168px;
+  top: 56px;
+  left: 1500px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0.06px;
+  line-height: 16px;
+}
+
+.element .pinclipart-com {
+  position: absolute;
+  width: 123px;
+  height: 123px;
+  top: 22px;
+  left: 1769px;
+  object-fit: cover;
+}
+
+.element .overlap-2 {
+  position: absolute;
+  width: 1920px;
+  height: 297px;
+  top: 1082px;
+  left: 0;
+  background-image: url(./img/rectangle-4.png);
+  background-size: 100% 100%;
+}
+
+.element .img {
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  top: 45px;
+  left: 639px;
+  object-fit: cover;
+}
+
+.element .img-2 {
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  top: 45px;
+  left: 210px;
+  object-fit: cover;
+}
+
+.element .img-3 {
+  position: absolute;
+  width: 231px;
+  height: 226px;
+  top: 45px;
+  left: 1068px;
+  object-fit: cover;
+}
+
+.element .img-4 {
+  position: absolute;
+  width: 224px;
+  height: 224px;
+  top: 45px;
+  left: 1502px;
+}
